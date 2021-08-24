@@ -11,8 +11,8 @@ function solveRect(l,b){
         console.log("Rectange dimention should be greater than 0");
     }
     else{
-        console.log("The area of rectange is "+rect.area(l,b));
-        console.log("The area of perimeter of rectange is "+rect.perimeter(l,b));
+        console.log("The Area of rectange is "+rect.area(l,b));
+        console.log("The Area of perimeter of rectange is "+rect.perimeter(l,b));
     }
 }
 
